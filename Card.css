@@ -1,0 +1,15 @@
+.Card00{background-color: rgb(7, 219, 219);
+width:280px; height:550px;
+
+color:white;
+display: inline-block;
+padding:5px;
+border-radius: 20px;
+padding:10px;
+margin-top:10px;
+border: 2px solid rgb(195, 157, 231);
+margin-right: 10px;}
+
+.Card00 img{height:250px;width: 20vw; border-radius: 20px;}
+.Card00 p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.Card h4 h3{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
